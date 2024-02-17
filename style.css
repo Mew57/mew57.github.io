@@ -2,7 +2,7 @@
 html {
   background-color: #bd8f13;
   color: #ffffff;
-  font-family: Inter sans-serif;
+  font-family: Inter papyrus;
   }
   .heading {
     text-align: center;
@@ -17,7 +17,7 @@ html {
     text-align: center;
   }
   a:link {
-    color: #8ab4f8;
+    color: #ffffff;
     background-color: transparent;
     text-decoration: none;
   }
